@@ -1,0 +1,35 @@
+body 
+{
+  background: url(Cute.jpeg) no-repeat center;
+  background-attachment: fixed;
+}
+h1
+{
+    font-size: 5vw;
+    color: black;
+}
+h2
+{
+    font-size: larger;
+    color: black;
+}
+h3
+{
+    font-size: larger;
+    color: black;
+}
+h4
+{
+    font-size: larger;
+    color: black;
+}
+h5
+{
+    font-size: larger;
+    color: black;
+}
+h6
+{
+    font-size: larger;
+    color: black;
+} 
